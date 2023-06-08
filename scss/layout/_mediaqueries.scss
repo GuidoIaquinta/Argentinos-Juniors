@@ -1,0 +1,36 @@
+/* MEDIA QUERIES */
+/* TABLET */
+/*mobile*/
+@media only screen and (max-width: 576px) {
+    /* estilos generales */
+    header {
+      flex-direction: column;
+    }
+    .principal img {
+      width: 70%;
+    }
+    /* historia*/
+    .escudos img {
+      width: 80%;
+      align-items: center;
+    }
+    /* partidos importantes */
+    .metropolitano_content {
+      flex-direction: column;
+    }
+    .metropolitano_content img {
+      width: 60%;
+    }
+    .libertadores_content {
+      flex-direction: column;
+      text-align: center;
+    }
+    .libertadores_content img {
+      width: 50%;
+    }
+    /* galeria */
+    .galeria1 {
+      display: flex;
+      flex-direction: column;
+    }
+  }

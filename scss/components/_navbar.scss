@@ -1,0 +1,23 @@
+nav ul {
+    text-align: center;
+    display: flex;
+  }
+  
+  ul li {
+    list-style: none;
+    margin: 0px 10px;
+  }
+  
+  ul li a {
+    color: $main-color;
+    font-size: 1.4rem;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .menu-nav {
+    background-color: black;
+    padding: 30px;
+    display: flex;
+    align-items: flex-end;
+  }
