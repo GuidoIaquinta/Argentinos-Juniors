@@ -7,7 +7,7 @@
       flex-direction: column;
     }
     .principal img {
-      width: 70%;
+      width: 80%;
     }
     /* historia*/
     .escudos img {
@@ -29,8 +29,10 @@
       width: 50%;
     }
     /* galeria */
-    .galeria1 {
+    .galeria .galeria1 {
       display: flex;
       flex-direction: column;
     }
+    
+    
   }
