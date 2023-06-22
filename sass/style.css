@@ -11,9 +11,11 @@ footer {
   padding: 50px;
   text-align: center;
 }
+
 footer .link-redes-instagram img {
   width: 50px;
 }
+
 footer .link-redes-twitter img {
   width: 50px;
 }
@@ -45,12 +47,14 @@ ul li a {
 body {
   background-color: white;
 }
+
 body h1 {
   text-align: center;
   color: red;
   font-size: 40px;
   margin: 30px 0;
 }
+
 body h1:hover {
   color: 0;
 }
@@ -97,6 +101,7 @@ body h1:hover {
   display: flex;
   justify-content: center;
 }
+
 .principal img {
   width: 30%;
   padding: 50px;
@@ -135,13 +140,6 @@ body h1:hover {
 }
 
 .new2 {
-  display: flex;
-  font-size: 22px;
-  color: black;
-  margin: 30px;
-}
-
-.cancha-nueva {
   display: flex;
   font-size: 22px;
   color: black;
@@ -210,6 +208,7 @@ body h1:hover {
 .galeria {
   margin-top: 50px;
 }
+
 .galeria .galeria1 {
   grid-template-columns: repeat(3, 1fr);
   display: grid;
@@ -265,5 +264,6 @@ body h1:hover {
     flex-direction: column;
   }
 }
+
 
 /*# sourceMappingURL=style.css.map */

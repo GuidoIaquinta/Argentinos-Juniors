@@ -9,7 +9,7 @@
 //   }
   .escudos img  {
     display: flex;
-    width: 49%;
+    width: 30%;
     padding: 50px;
     font-size: 22px;
     text-align: center;
@@ -19,8 +19,22 @@
   
   .cancha img{
     display: flex;
-    width: 49%;
+    width: 30%;
     padding: 50px;
     font-size: 22px;
     text-align: center;
+  }
+
+  .new2{
+    display: flex;
+    font-size: 22px;
+    color: black;
+    margin: 30px;
+  }
+
+  .cancha-nueva {
+    display: flex;
+    font-size: 22px;
+    color: black;
+    margin: 30px;
   }
