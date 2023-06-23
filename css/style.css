@@ -242,7 +242,11 @@ body h1:hover {
   }
   /* historia*/
   .escudos img {
-    width: 80%;
+    width: 70%;
+    align-items: center;
+  }
+  .cancha img {
+    width: 70%;
     align-items: center;
   }
   /* partidos importantes */
